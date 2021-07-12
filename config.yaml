@@ -4,6 +4,6 @@ metadata:
   name: app-config
   namespace: default
 data:
-  foo: bar
-  hello: world
-  john: doe
+  foo: baz
+  hello: universer
+  john: eli
